@@ -1,0 +1,16 @@
+{% extends 'base.html' %}
+{% block body %}
+    <h1 class="page-head">{{ head }}</h1>
+    <h2 class="page-description">{{ description }}</h2>
+
+    <button id="start-game-button">Start the Game!</button>
+    
+    <script>
+        document.getElementById("start-game-button").addEventListener("click", function() {
+            fetch("/start_game", {
+                method: "POST"
+            })
+        });
+    </script>
+    
+{% endblock %}
