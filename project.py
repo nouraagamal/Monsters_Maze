@@ -12,7 +12,7 @@ def homepage():
 
 @skills_app.route("/start_game", methods=["POST"])
 def start_game():
-        subprocess.Popen(['python', '1.py'])    
+        subprocess.Popen(['python', 'file_1.py'])    
 
 if __name__ == "__main__":
     skills_app.run(debug=True)
