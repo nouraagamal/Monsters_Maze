@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <link rel="stylesheet" href={{ url_for('static', filename='css/main.css') }}>
+    <title>{{ pagetitle }}</title>
+    <style>
+        button {
+            position: absolute;
+            top: 30%;
+            left: 50%;
+            transform: translate(-50%, -50%);
+            margin-top: 20px;
+            padding: 10px 20px;
+            font-size: 26px;
+        }
+    </style>
+</head>
+<body>
+    {% block body %}
+    {% endblock %}
+
+    <script src={{ url_for('static', filename='css/js/jquery-3.7.1.min.js') }}></script>
+    <script src={{ url_for('static', filename='css/js/popper.min.js') }}></script>
+    <script src={{ url_for('static', filename='css/js/bootstrap.js') }}></script>
+</body>
+</html>
