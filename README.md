@@ -27,3 +27,5 @@ Game Development with JavaScript
 Licensing
 This project is licensed under the MIT License. You are free to use, modify, and distribute this software as long as you include the original copyright notice and this permission notice in all copies or substantial portions of the software.
 See the LICENSE file for more details.
+
+![image](https://github.com/user-attachments/assets/f8b273b9-f986-440b-b0f2-406935b0d7f4)
