@@ -1,13 +1,13 @@
 # Portfolio_Project_ALX
 <h1>The Monsters Maze</h1>
-For my portfolio project in full stack software engineering with ALX 
-Landing Page: https://nouragamal011.wixsite.com/the-monsters-maze
+For my portfolio project in full stack software engineering with ALX <br>
+Landing Page: https://nouragamal011.wixsite.com/the-monsters-maze <br>
 linkedin: www.linkedin.com/in/noura-gamal-557512197
 
 <h2>Installation</h2>
 To get started with the project, follow these steps: <br>
-1) You can clone this repo using git clone
-2) Run the project.py file
+1) You can clone this repo using git clone<br>
+2) Run the project.py file<br>
 3) Press the button "Start the Game!"
 
 <h2>Usage</h2>
@@ -31,4 +31,6 @@ Game Development with JavaScript
 <h2>Licensing</h2>
 There is currently no license for this project.
 <hr>
-![image](https://github.com/user-attachments/assets/f8b273b9-f986-440b-b0f2-406935b0d7f4)
+
+![image](https://github.com/user-attachments/assets/69c0d56b-3c54-4093-90e3-8bace5c79101)
+
